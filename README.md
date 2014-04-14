@@ -1,7 +1,7 @@
 onara
 =====
 
-Comprehensive onara collectioin for every programmer.
+Comprehensive onara collectioin for all programmers.
 
 # What is onara?
 
