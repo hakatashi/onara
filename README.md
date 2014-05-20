@@ -5,7 +5,7 @@ Comprehensive onara collectioin for all programmers.
 
 # What is onara?
 
-onara is a Japanese word that means 'fart'.
+onara is a Japanese word that means 'fart'. :poop:
 
 # How come this project started?
 
